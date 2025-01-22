@@ -1,0 +1,7 @@
+assemblyai
+openai==0.28
+fastapi
+requests
+uvicorn
+python-dotenv
+python-multipart
