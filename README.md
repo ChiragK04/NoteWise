@@ -1,11 +1,6 @@
 <h1 align="center">🧠 NoteWise - Backend</h1>
-<p align="center">AI-Powered Smart Note Processing API (MP3-based)</p>
+<p align="center">AI-Powered Smart Note Processing API </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-development-yellow" />
-  <img src="https://img.shields.io/badge/audio-input-MP3-blue" />
-  <img src="https://img.shields.io/badge/framework-FastAPI-green" />
-</p>
 
 ---
 
